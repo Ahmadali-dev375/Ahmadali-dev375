@@ -4,8 +4,43 @@
 Flutter Developer | Firebase | AI Automation & Agent Development | Web Technologies | BSIT Student @ GCUF
 </h3>
 
- ## 💫 About Me:
-<br>🚀 I'm currently working on Flutter & Firebase applications, AI Automation workflows, and Python-based AI Agents.<br><br>🤝 I'm looking to collaborate on Open Source, Flutter, AI Automation, and Full-Stack Development projects.<br><br>🧠 I'm exploring Advanced AI Agents, System Design, Cloud Architecture, and Scalable Backend Development.<br><br>🌱 Currently learning AI Agent Development, n8n Automation, Advanced Flutter, and Modern Full-Stack Development.<br><br>💬 Ask me about Flutter, Firebase, Web Development, Python, REST APIs, AI Automation, and Mobile App Development.<br><br>⚡ Fun fact: "I believe the best way to learn is by building real-world projects". When I'm not coding, you'll probably find me binge-watching series.
+## 💫 About Me
+
+```text
+
+🔭 Currently Building
+• Flutter & Firebase Applications
+• AI Automation Workflows
+• Responsive Websites
+
+🧠 Exploring
+• Advanced AI Agents
+• System Design
+• Scalable Backend Development
+
+🌱 Currently Learning
+• AI Agent Development
+• n8n Automation
+
+🤝 Open to Collaborate
+• Open Source Projects
+• Flutter Applications
+• AI Automation Solutions
+
+💬 Ask Me About
+• Flutter
+• Firebase
+• Python
+• REST APIs
+• Web Development
+• AI Automation
+• Mobile App Development
+
+⚡ Fun Fact
+"I believe the best way to learn is by building real-world projects."
+When I'm not coding, you'll probably find me binge-watching series. 
+
+```
 
 
 ## 🌐 Socials:
