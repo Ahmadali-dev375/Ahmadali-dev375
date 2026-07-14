@@ -5,40 +5,44 @@ Flutter Developer | Firebase | AI Automation & Agent Development | Web Technolog
 </h3>
 
 ## 💫 About Me
-
 ```text
 
-🔭 Currently Building
-• Flutter & Firebase Applications
-• AI Automation Workflows
-• Responsive Websites
+Name: Ahmad Ali
+Role: Full-Stack App Developer
+Experience: 3+ years
+Location: Faisalabad, Pakistan 🇵🇰
+Available_for: Freelancing
 
-🧠 Exploring
-• Advanced AI Agents
-• System Design
-• Scalable Backend Development
+🚀 specialties:
+  - Cross-platform Mobile Apps (Flutter / Dart)
+  - Responsive Web Development
+  - Firebase Backend & Cloud Services
+  - REST API Integration
+  - AI Automation Workflows
 
-🌱 Currently Learning
-• AI Agent Development
-• n8n Automation
+Currently:
+  🔭 building:
+    • Flutter & Firebase Applications
+    • AI Automation Workflows
+    • Responsive Websites
 
-🤝 Open to Collaborate
-• Open Source Projects
-• Flutter Applications
-• AI Automation Solutions
+  🧠 exploring:
+    • Advanced AI Agents
+    • System Design
+    • Scalable Backend Development
 
-💬 Ask Me About
-• Flutter
-• Firebase
-• Python
-• REST APIs
-• Web Development
-• AI Automation
-• Mobile App Development
+  🌱 learning:
+    • AI Agent Development
+    • n8n Automation
 
-⚡ Fun Fact
-"I believe the best way to learn is by building real-world projects."
-When I'm not coding, you'll probably find me binge-watching series. 
+  🤝 open_to:
+    • Freelance Projects
+    • Open Source Collaboration
+    • AI Automation Solutions
+
+⚡ fun_fact: 
+  > I believe the best way to learn is by building real-world projects.
+  > When I'm not coding, you'll probably find me binge-watching series.
 
 ```
 
