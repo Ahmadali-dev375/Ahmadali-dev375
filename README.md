@@ -1,8 +1,13 @@
-<h1 align="left">👋 Hi, I'm Ahmad Ali</h1>
+<div align="center">
 
-<h3 align="center">
-Flutter Developer | Firebase | AI Automation & Agent Development | Web Technologies | BSIT Student @ GCUF
-</h3>
+<img src="./assets/ahmad-profile-animation.gif" width="100%" alt="Ahmad Ali — Flutter, Firebase and AI Automation Developer" />
+
+<h1>👋 Hi, I'm Ahmad Ali</h1>
+
+<h3>Flutter Developer • AI Automation & Agent Developer • Full-Stack App Developer</h3>
+
+
+</div>
 
 ## 💫 About Me
 ```text
