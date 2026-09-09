@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/ahmad-profile-animation.gif" width="100%" alt="Ahmad Ali — Flutter, Firebase and AI Automation Developer" />
+<img src="./assets/ahmad-profile.gif" width="100%" alt="Ahmad Ali — Flutter, Firebase and AI Automation Developer" />
 
 <h1>👋 Hi, I'm Ahmad Ali</h1>
 
