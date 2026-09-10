@@ -75,22 +75,6 @@ Currently:
 
 </details>
 
-# 🚀 Featured Projects
-
-## 📱 Production-Ready Mobile Apps
-
-### 🧮 [Universal Calculator & Unit Converter](https://github.com/Ahmadali-dev375/Calculator-App)
-
-A lightweight Flutter calculator and multi-category unit converter built for study, work, and everyday use.
-
-**Key Features:** Calculator • Unit Conversion • Calculation History • Custom Themes
-
-**Tech Stack:** Flutter • Dart • Android
-
-[View Repository →](https://github.com/Ahmadali-dev375/Calculator-App)
-
----
-
 ## 📅 Contributions
 
 <p align="center">
@@ -109,15 +93,4 @@ A lightweight Flutter calculator and multi-category unit converter built for stu
 
 ![](https://github-contributor-stats.vercel.app/api?username=Ahmadali-dev375&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
 
-## 🌐 Connect With Me
-
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white)](https://www.facebook.com/AhmxAli07)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/ahmxali07/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmadali-dev375/)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmadiyya375@gmail.com)
-
-[![](https://komarev.com/ghpvc/?username=Ahmadali-dev375&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
