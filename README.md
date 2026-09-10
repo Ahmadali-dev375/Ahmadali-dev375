@@ -81,8 +81,6 @@ Currently:
 
 ### 🧮 [Universal Calculator & Unit Converter](https://github.com/Ahmadali-dev375/Calculator-App)
 
-[View Repository →](https://github.com/Ahmadali-dev375/Calculator-App)
-
 ---
 
 ## 📅 Contributions
