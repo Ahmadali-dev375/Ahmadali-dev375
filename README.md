@@ -83,14 +83,8 @@ Currently:
 
 # 📊 GitHub Stats
 
-![](https://github-readme-stats.shion.dev/api?username=Ahmadali-dev375&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
 ![](https://streak-stats.demolab.com/?user=Ahmadali-dev375&theme=dark&hide_border=false&timezone=Asia%2FKarachi)<br/>
 
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ahmadali-dev375&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🔝 Top Contributed Repo
-
-![](https://github-contributor-stats.vercel.app/api?username=Ahmadali-dev375&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 
