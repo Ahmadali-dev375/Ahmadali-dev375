@@ -75,6 +75,16 @@ Currently:
 
 </details>
 
+# 🚀 Featured Projects
+
+## 📱 Production-Ready Mobile Apps
+
+### 🧮 [Universal Calculator & Unit Converter](https://github.com/Ahmadali-dev375/Calculator-App)
+
+[View Repository →](https://github.com/Ahmadali-dev375/Calculator-App)
+
+---
+
 ## 📅 Contributions
 
 <p align="center">
