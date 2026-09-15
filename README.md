@@ -87,7 +87,7 @@ Currently:
 ## 📅 Contributions
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Ahmadali-dev375/Ahmadali-dev375/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Snake" />
+  <img src="https://raw.githubusercontent.com/Ahmadali-dev375/AhmxAli07/output/github-contribution-grid-snake-dark.svg?palette=github-dark" alt="GitHub Contribution Snake" />
 </p>
 
 # 📊 GitHub Stats
